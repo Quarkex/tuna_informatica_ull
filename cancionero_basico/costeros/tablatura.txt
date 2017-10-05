@@ -2,23 +2,23 @@ COSTEROS
 --------
 
 Estribillo:
-E            A
-Somos costeros arriando velas,
-E             A      A7
-largando al viento la rumantela.
-D                 A      F#
-Echa ron ventorrillero
-Bm  E        A
-turronera pon turrón.
-
-|            E               A
-| Hoy no cantamos¡ sardinas frescas!
-|           E              A       A7
-| Hoy pregonamos ¡viva la fiesta!
-| D                 A      F#
-| Echa ron ventorrillero
-|      Bm  E        A
-| turronera pon turrón.
+  | E            A
+  | Somos costeros arriando velas,
+  | E             A      A7
+  | largando al viento la rumantela.
+  | D                 A      F#
+  | Echa ron ventorrillero
+  | Bm  E        A
+  | turronera pon turrón.
+  |
+  |            E               A
+  | Hoy no cantamos¡ sardinas frescas!
+  |           E              A       A7
+  | Hoy pregonamos ¡viva la fiesta!
+  | D                 A      F#
+  | Echa ron ventorrillero
+  |      Bm  E        A
+  | turronera pon turrón.
 
 A                E
 El roncote no pica, compadre

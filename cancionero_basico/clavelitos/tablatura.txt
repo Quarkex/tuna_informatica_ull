@@ -15,16 +15,17 @@ E                Am          Dm     E      A
 Si tu me das esa miel, que llevas en la boquita
 
 Estribillo:
-A                               Edim     E
-Clavelitos, clavelitos, clavelitos de mi corazón
-A
-Hoy te traigo clavelitos colorados igual que un fresón
-A7             D
-Si algún día clavelitos no lograra poderte traer
-D               Dm         A     F#     Bm          E     A    E   A
-No te creas que ya no te quiero, es que no te los pude coger.
+  | A                               Edim     E
+  | Clavelitos, clavelitos, clavelitos de mi corazón
+  | A
+  | Hoy te traigo clavelitos colorados igual que un fresón
+  | A7             D
+  | Si algún día clavelitos no lograra poderte traer
+  | D               Dm         A     F#     Bm          E     A    E   A
+  | No te creas que ya no te quiero, es que no te los pude coger.
 
 [ E, Am, Dm, E, Am ]
+
 [ E, Am, Dm, E, Am ]
 
 Am       E        Am                      E

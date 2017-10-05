@@ -1,17 +1,19 @@
 LA FLOR DE LA CANELA
 --------------------
 
-(bass)                                Bass:
-E7                    Am             e-----------------------
-Déjame que te cuente limeña           B-----------------------
-A7      Dm             G-----------------------
-déjame que te diga la gloria          D-----------------------
-G7                   C          A----0------------------
-del ensueño que evoca la memoria      E----------3-----1------
+(bass)                                 Bass:
+                                       e-----------------------
+E7                    Am               B-----------------------
+Déjame que te cuente limeña            G-----------------------
+A7      Dm                             D-----------------------
+déjame que te diga la gloria           A----0------------------
+G7                   C                 E----------3-----1------
+del ensueño que evoca la memoria
 E                    Am
 del viejo puente del río y la alameda
 
 (Bass)
+
 E                     Am
 Déjame que te cuente limeña
 A7          Dm
@@ -22,24 +24,25 @@ E                   Am
 el viejo puente del río y la alameda
 
 Estribillo:
-G7                  C
-Jazmines en el pelo y rosas en la cara
-G7                    C
-Airosa caminaba la flor de la canela
-G                  C
-derramaba lisura y a su paso dejaba
-A7         Dm          G7           C
-aroma de mistura que en el pecho llevaba
-G                    C
-Del puente a la alameda menudo pie la lleva
-G7
-por la vereda que se estremece al ritmo de
-C
-su cadera
-G7                   C
-recogía la risa de la brisa del río
-A7          Dm           G7         C
-y al viento la lanzaba del puente a la alameda
+  | G7                  C
+  | Jazmines en el pelo y rosas en la cara
+  | G7                    C
+  | Airosa caminaba la flor de la canela
+  | G                  C
+  | derramaba lisura y a su paso dejaba
+  | A7         Dm          G7           C
+  | aroma de mistura que en el pecho llevaba
+  |
+  | G                    C
+  | Del puente a la alameda menudo pie la lleva
+  | G7
+  | por la vereda que se estremece al ritmo de
+  | C
+  | su cadera
+  | G7                   C
+  | recogía la risa de la brisa del río
+  | A7          Dm           G7         C
+  | y al viento la lanzaba del puente a la alameda
 
 E7                      Am
 Déjame que te cuente, limeña
@@ -67,5 +70,6 @@ Que el río acompasará su paso por la vereda
 
 G7
 Y recuerda que…
+
 (Estribillo)
 

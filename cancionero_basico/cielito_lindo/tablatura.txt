@@ -1,7 +1,7 @@
 CIELITO LINDO
 -------------
 
-Intro: A, Edim, E, A, Edim, E.
+[ A Edim E A Edim E ]
 
 A    E7       A       E7      A                E7
 Ese lunar que llevas, cielito lindo, junto a la boca,
@@ -9,10 +9,10 @@ A
 no se lo des a nadie, cielito lindo, que a mí me toca. (bis)
 
 Estribillo:
-A     A7    D    E7          A
-AY, AY, AY, AY, CANTA Y NO LLORES
-F#               Bm               E7             A
-PORQUE CANTANDO SE ALEGRAN, CIELITO LINDO, LOS CORAZONES (bis)
+2x| A     A7    D    E7          A
+  | ay, ay, ay, ay, canta y no llores
+  | F#               Bm               E7             A
+  | porque cantando se alegran, cielito lindo, los corazones
 
 [ A, Edim, E, A, Edim, E ]
 

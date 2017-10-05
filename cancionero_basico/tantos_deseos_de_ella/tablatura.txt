@@ -3,7 +3,7 @@ TANTOS DESEOS DE ELLA
 
 Capo 1
 
-Intro: C, Em, Am, F, Dm, G7, C.
+[ C Em Am F Dm G7 C ]
 
 C       Em
 En un cuarto dos amantes
@@ -32,35 +32,34 @@ G            C    Em
 yo siempre te amaré
 
 Am    F
-Te vere a la mísma hora
+Te veré a la mísma hora
 G          C      Em
 Y la mísma habitación
 Am              F
 Lloraremos y sonreiremos unidos
 G        C
-Y de pasion los dos, los dos locos de amor.
+Y de pasión los dos, los dos locos de amor.
 
 Estribillo:
-C       Em
-Volveremos a encontrarnos
-Am    F
-cerca de el árbol aquél
-Dm
-Que de espaldas nos veian  besarnos
-G7             C     Em
-Y alejarnos sin querer
+  | C       Em
+  | Volveremos a encontrarnos
+  | Am    F
+  | cerca de el árbol aquél
+  | Dm
+  | Que de espaldas nos veian  besarnos
+  | G7             C     Em
+  | Y alejarnos sin querer
+  |
+  | Am     F
+  | Los amantes que se quieren
+  | G         C      Em
+  | No se pueden olvidar
+  | Am                    F
+  | el amor es muy errante de el que nunca
+  | G         C
+  | quisieramos despertar
 
-Am     F
-Los amantes que se quieren
-G         C      Em
-No se pueden olvidar
-Am                    F
-el amor es muy errante de el que nunca
-G         C
-quisieramos despertar
-
-Solo [ C, Em, Am, F, Dm, G, C ]
+[ C, Em, Am, F, Dm, G, C ]
 
 (Estribillo)
-
 

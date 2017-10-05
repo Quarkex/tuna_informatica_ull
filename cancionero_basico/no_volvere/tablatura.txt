@@ -1,10 +1,10 @@
 NO VOLVERÉ
 ----------
 
-[ C, D7, G, C, D7, C, D7, G ]
+[ C D7 G C D7 C D7 G ]
 
-G   D7                 G
-Cuando lejos    me encuentre de ti
+G   D7              G
+Cuando lejos me encuentre de ti
 C    D7
 cuando quieras que yo esté contigo
 C        D7       G
@@ -21,14 +21,14 @@ D         D7        G
 ya de mi alma estarás despedida
 
 Estribillo:
-C
-No volveré
-D7          G
-te lo juro por dios que me mira
-C        D7
-te lo digo llorando de rabia
-C    C/B  C/A     G
-no   vol   ve    ré
+  | C
+  | No volveré
+  | D7          G
+  | te lo juro por dios que me mira
+  | C        D7
+  | te lo digo llorando de rabia
+  | C    C/B   C/A   G
+  | no   vol   ve    ré
 
 C
 No pararé

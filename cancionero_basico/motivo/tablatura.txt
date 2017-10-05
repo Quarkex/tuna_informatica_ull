@@ -9,18 +9,18 @@ E                              AM7 C#m  Cm Bm E
 Una simple estrellita de mar es un motivo
 
 Estribillo:
-AM7  Bm          C#m,   Cm,    Bm
-Escribir un poema es fácil si existe un motivo
-B7                                 Bm  E
-y hasta puede crear mundo nuevos en la fantasiiia
-AM7   Bm            C#m Cm,        Bm
-Unos ojos    bañados de luz son un motivo
-C#7                             F#              Em       A7
-Unos labios queriendo besar son un motivo (hay de amor para mi)
-D             Dm         AM7               F#
-Y me quedo mirándote asi y encontrándote tantos motivos
-Bm             E              AM7 C#m, Cm, Bm, E
-Yo concluyo que mi motivo mayor eres tú.
+  | AM7  Bm          C#m,   Cm,    Bm
+  | Escribir un poema es fácil si existe un motivo
+  | B7                                 Bm  E
+  | y hasta puede crear mundo nuevos en la fantasiiia
+  | AM7   Bm            C#m Cm,        Bm
+  | Unos ojos    bañados de luz son un motivo
+  | C#7                             F#              Em       A7
+  | Unos labios queriendo besar son un motivo (hay de amor para mi)
+  | D             Dm         AM7               F#
+  | Y me quedo mirándote asi y encontrándote tantos motivos
+  | Bm             E              AM7 C#m, Cm, Bm, E
+  | Yo concluyo que mi motivo mayor eres tú.
 
 [ Am7, Bm, C#m, Cm, Bm, E, AM7, C#m, Cm, Bm, E ]
 

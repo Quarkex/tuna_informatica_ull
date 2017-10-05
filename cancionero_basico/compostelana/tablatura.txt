@@ -13,25 +13,26 @@ Gm
 Luego la noche en sus ecos
 C                    F
 los cuela de ronda por todo el balcón
+
 A7         Dm              D7
 Y allá en el templo del apóstol santo
 G               F
 una niña llora ante su patrón,
 
-|           Gm                 Dm
-| Porque la capa del tuno que adora
-|              A7               Dm                D
-| no lleva la cinta que ella le bordó (bis) ← bordó
+2x|           Gm                 Dm
+  | Porque la capa del tuno que adora
+  |              A7               Dm                D
+  | no lleva la cinta que ella le bordó (bis) ← bordó
 
 Estribillo:
-D                           A7            D
-Cuando la tuna te de serenata no te enamores compostelana
-A7            D     D7
-que cada cinta que adorna mi capa lleva un trocito del corazón
-G                 D              A7            D       D7
-Ay la la la la la la la!!! no te enamores compostelana
-G                D         A7           D
-y deja a la tuna pasar con su tra la la la la!!!
+  | D                           A7            D
+  | Cuando la tuna te de serenata no te enamores compostelana
+  | A7            D     D7
+  | que cada cinta que adorna mi capa lleva un trocito del corazón
+  | G                 D              A7            D       D7
+  | Ay la la la la la la la!!! no te enamores compostelana
+  | G                D         A7           D
+  | y deja a la tuna pasar con su tra la la la la!!!
 
 Dm                Gm
 Hoy va la tuna de gala
@@ -46,10 +47,10 @@ Y allá en el templo del apóstol Santo
 G                    F
 Con el estudiante hoy se va a casar
 
-|          Gm             Dm
-| La galleguiña melosa, melosa
-|                 A7               Dm                D
-| Que oyendo esta copla ya no llorará (Bis) ← llorará
+2x|          Gm             Dm
+  | La galleguiña melosa, melosa
+  |                 A7               Dm                D
+  | Que oyendo esta copla ya no llorará (Bis) ← llorará
 
 (Estribillo)
 
