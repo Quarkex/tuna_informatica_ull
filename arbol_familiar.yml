@@ -90,6 +90,7 @@ Informática:
     fundador: true
     becado: 1994-11-18
     ahijados:
+
       - mote: 
 
   - mote: Urkel
@@ -143,3 +144,21 @@ Informática:
     becado: null
     tuna_madre: Minas de Madrid
 
+  - Elmer:
+    becado: null
+    tuna_madre: farmacia
+
+  - mote: Fitipollas (Fiti)
+    becado: null
+
+  - mote: Boticario
+    beca: null
+
+  - mote: Caballe
+    beca: null
+
+  - mote: Escopeta
+    beca: null
+
+  - mote: Pepollas (Pepo)
+    beca: null
