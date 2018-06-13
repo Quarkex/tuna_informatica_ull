@@ -1,33 +1,145 @@
-Fundadores:
+Informática:
+
   - mote: Durex
+    fundador: true
     becado: 1994-11-18
+    ahijados:
+
+      - mote: 
 
   - mote: Fosforito
+    fundador: true
     becado: 1994-11-18
+    ahijados:
+
+      - mote: 
 
   - mote: Inyectable
+    fundador: true
     becado: 1994-11-18
+    ahijados:
 
-  - mote: Libidinoso
-    becado: 1994-12-18
+      - mote: 
 
   - mote: Lo mismo
+    fundador: true
     becado: 1994-11-18
+    ahijados:
+
+      - mote: 
 
   - mote: Pinfli
+    fundador: true
     becado: 1994-11-18
+    ahijados:
+
+      - mote: FidoX
+        becado: null
+
+      - mote: Cásper
+        becado: null
+        ahijados: 
+
+           - mote: Pocahontas
+             becado: null
+             ahijados:
+
+               - mote: Iniesta
+                 becado: null
+                 ahijados:
+
+                  - mote: Golosina
+                    becado: 2017-12-25
+
+      - mote: Santiso
+        becado: null
+
+      - mote: Obelix
+        becado: null
+
+      - mote: Libidinoso
+        fundador: true
+        becado: 1994-12-18
+        ahijados:
+
+          - mote: 
 
   - mote: Punkiblank
+    fundador: true
     becado: 1994-11-18
+    ahijados:
+
+      - mote: 
 
   - mote: Tintin
+    fundador: true
     becado: 1994-11-18
+    ahijados:
+
+      - mote: Achaman
+        becado: null
+        ahijados:
+
+          - mote: Lequio
+            becado: null
+            ahijados:
+
+              - mote: 
 
   - mote: Tsunami
+    fundador: true
     becado: 1994-11-18
+    ahijados:
+      - mote: 
 
   - mote: Urkel
+    fundador: true
     becado: 1994-11-18
+    ahijados:
+
+      - mote: Yo que (Melman)
+        becado: 2010
+        ahijados:
+
+          - mote: Sebastopol (Topol)
+            becado: 
+            ahijados:
+
+            - mote: Luthier
+              becado: 2017-12-25
+              ahijados:
+
+              - mote:
+ 
+            - mote: Pánico:
+              tuna_madre: Farmacia
+              becado: null
+              ahijados:
+
+              - mote:
+       
 
   - mote: Wally
+    fundador: true
     becado: 1994-11-18
+    ahijados:
+
+      - mote: 
+
+  - mote: Santos
+    becado: null
+    ahijados:
+
+     - mote: Harry Potas (Hapo)
+       becado: null
+
+     - mote: Petete
+       becado: null
+
+  - mote: Mapache
+    tuna_madre: Derecho
+
+  - Camilo
+    becado: null
+    tuna_madre: Minas de Madrid
+
