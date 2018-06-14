@@ -1,26 +1,45 @@
 VAGABUNDO POR SANTA CRUZ
 ------------------------
 
-     D                                                              A7
-Callecita de piedra y silencio que voy recorriendo a la luz de un farol
-                                                              D   G
-mi memoria recuerda las noches en que cada piedra se hacia canción
-A       D                                     D7                  G
-voy sin rumbo por los pasadizos que miles de amores te hicieron pasar
-              A7         D        B7        Em         A7      D   D7
-y temblando resurgen los sones de muchas canciones que pude cantar
-    G          A7        D        B7       Em      A7       D   D7
-renaciendo con nuevos fulgores viejos trovadores salen a rondar
+     D          A7      D        
+Callecita de piedra y silencio
+                                     A7
+que voy recorriendo a la luz de un farol
+     Em                 A7        
+mi memoria recuerda las noches
+              Em                 D   G
+en que cada estrella se hacia canción
+        D                      
+voy sin rumbo por los pasadizos
+              D7                  G
+que miles de amores me hicieron pasar
+              A7         D    
+y temblando resurgen los sones
+   B7        Em         A7      D   D7
+de muchas canciones que pude cantar
+    G          A7        D    
+renaciendo con nuevos fulgores
+   B7       Em      A7       D   D7
+viejos trovadores salen a rondar
 
 Estribillo:
- | G                              A7         D
- | Hoy vuelvo a ser vagabundo por tus lindas calles
- |        B7                  Em                  A7               D   D7
- | un don Juan, un Juglar, un Poeta que con su guitarra te hacía soñar
- | G                              A7        D
- | hoy Santa Cruz me enamoro otra vez de la luna
- |      B7                    Em                A7                    D
- | y vistiendo el jubón de la tuna miro a las estrellas y empiezo a volar
+ | G                         
+ | Hoy vuelvo a ser
+ |               A7         D
+ | vagabundo por tus lindas calles
+ |        B7                  Em   
+ | un don Juan, un Juglar, un Poeta
+ |               A7               D   D7
+ | que con su guitarra te hacía soñar
+ |
+ | G                        
+ | hoy Santa Cruz
+ |                 A7        D
+ | me enamoro otra vez de la luna
+ |      B7                    Em  
+ | y vistiendo el jubón de la tuna
+ |              A7                    D
+ | miro a las estrellas y empiezo a volar
 
 (Instrumental)
 
