@@ -28,7 +28,7 @@ Informática:
 
       - mote: 
 
-  - mote: Pinfli
+  - mote: Nazareno (Pinfli)
     fundador: true
     becado: 1994-11-18
     ahijados:
@@ -63,7 +63,7 @@ Informática:
         becado: 1994-12-18
         ahijados:
 
-      - mote: Playback
+      - mote: Playback (Elegido)
         fundador: false
         becado: 2018-12-22
         ahijados:
@@ -75,7 +75,7 @@ Informática:
 
       - mote: 
 
-  - mote: Tintin
+  - mote: Elena (Tintin)
     fundador: true
     becado: 1994-11-18
     ahijados:
@@ -166,3 +166,7 @@ Informática:
 
   - mote: Pepollas (Pepo)
     beca: null
+    
+    
+    
+Sintaxis -mote : "Mote de bautizo" ("Como es conocido")
