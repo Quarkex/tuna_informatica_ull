@@ -51,6 +51,10 @@ Informática:
                   - mote: Golosina
                     becado: 2017-11-25
                     ahijados:
+                    
+                      - mote: Maldito
+                        becado: 2023-11-11
+                        ahijados:
 
       - mote: Santiso
         becado: null
@@ -110,18 +114,20 @@ Informática:
             becado: 
             ahijados:
 
-            - mote: Luthier
-              becado: 2017-12-25
-              ahijados:
-
-              - mote:
+             - mote: Luthier
+               becado: 2017-12-25
+               ahijados:
+           
+             - mote: Churrasco
+               beca: null
+               ahijados:
  
-            - mote: Pánico:
-              tuna_madre: Farmacia
-              becado: null
-              ahijados:
+             - mote: Pánico:
+               tuna_madre: Farmacia
+               becado: null
+               ahijados:
 
-              - mote:
+
        
 
   - mote: Wally
@@ -129,19 +135,30 @@ Informática:
     becado: 1994-11-18
     ahijados:
 
-      - mote: 
+      - mote: Leming
+        becado: null
+        ahijados:
+        
+          - mote: Fitipollas (Fiti)
+            becado: null
+            ahijados:
+
+              - mote: Coñazo
+                becado: 2023-11-11
+                ahijados:
 
   - mote: Santos
     becado: null
     ahijados:
 
-     - mote: Harry Potas (Hapo)
-       becado: null
+      - mote: Harry Potas (Hapo)
+        becado: null
 
-     - mote: Petete
-       becado: null
+      - mote: Petete
+        becado: null
 
   - mote: Mapache
+    becado: null
     tuna_madre: Derecho
 
   - Camilo
@@ -152,8 +169,6 @@ Informática:
     becado: null
     tuna_madre: farmacia
 
-  - mote: Fitipollas (Fiti)
-    becado: null
 
   - mote: Boticario
     beca: null
